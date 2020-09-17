@@ -1,0 +1,4 @@
+bin/*
+config/.env.yml
+
+go.sum

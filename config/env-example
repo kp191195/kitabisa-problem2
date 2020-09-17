@@ -1,0 +1,15 @@
+database:
+    host: ""
+    port: ""
+    name: ""
+    user: ""
+    password: ""
+database-test:
+    host: ""
+    port: ""
+    name: ""
+    user: ""
+    password: ""
+app:
+    jwt_secret: "x51boct1235455aazgq31"
+    port: "10000"
